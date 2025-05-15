@@ -1,0 +1,16 @@
+name: ecoViz
+dependencies:
+#    - fiona
+    - geopandas
+    - imageio
+    - ipython
+    - jmcmurray::json
+    - jupyterlab
+    - matplotlib
+    - numpy
+    - pillow
+#    - rasterio
+    - scipy
+    - shapely
+    - pip:
+      - tol-colors

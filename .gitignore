@@ -1,0 +1,6 @@
+# Checkpoints etc.
+.ipynb_checkpoints/
+.jupyter/
+
+# Surplus notebook
+RedBeach_Map.ipynb
