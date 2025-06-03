@@ -19,3 +19,5 @@ Under `Blender_files` you will find:
 The material included under `Blender_files` was tested with Blender 3.6.5 and is expected to work with Blender 3.6 LTS. Adaptation may be required to work in Blender 4.x and up.
 
 In producing our visualisations we used, among others, freely available 3D assets from https://polyhaven.com/ and custom assets by [Ulco Glimmerveen](https://gallery.ulco-art.nl/).
+
+![Red Beach visualisation](Red_Beach_visualisation.jpg)
